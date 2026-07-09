@@ -27,23 +27,17 @@
   <br/>
   <div align="left"> 
 
-  - Data management tools: IBM DataStage, Informatica BDM Data using code: Pandas, PySpark, Airflow, Bash scripting.
-
-  - Data automation: Microsoft Power Automate, Integromat, Zapier
-    
-  - Testing: Build a unit test using Pytest and how to use Test-Driven Development (TDD) concept
-    
-  - Databases: Teradata, Teradata Assistant, Oracle, Mysql
-    
-  - Reporting: AWS Quicksight, Crystal report 10
-  
-  - Project Management: Trello(Kanban Board), Waterfall, Scrum, Agile.
-    
-  - Languages: Python, SQL, PL/SQL, PHP basics, Visual Basic 6.
-    
-  - AWS Big Data: S3, Glue, Athena, Lambda, Kinesis, lake formation, EMR, Redshift
-    
-  - AWS ML Services: Comprehend In addition: WordPress, Joomla!
+- Programming & Scripting: Python, SQL, PL/SQL, Bash, PHP, VB6
+- Cloud & Big Data (AWS): S3, EMR, Lambda, Redshift, Glue, Lake Formation, Kinesis, Athena, QuickSight
+- Data Engineering: PySpark, Pandas, dbt, DataStage, Informatica BDM, Alteryx, Apache Spark
+- Orchestration: Apache Airflow
+- Automation: n8n, Power Automate
+- Streaming & CDC: Kafka, Flink, Debezium, Flink CDC
+- Databases: PostgreSQL, MySQL, Oracle, Teradata, Apache Doris, Redshift
+- Lakehouse & Storage: Iceberg, Dremio, Project Nessie
+- DevOps: Docker, Podman, CI/CD, GIT, Github
+- Visualization: Superset, QuickSight, Crystal Reports
+- Other: WordPress
   </div>
 </div>
 
